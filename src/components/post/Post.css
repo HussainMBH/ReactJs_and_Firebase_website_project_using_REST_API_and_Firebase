@@ -1,0 +1,14 @@
+
+.card {
+    margin: 10px !important;
+    /* background-color:#F2e9e6; */
+}
+
+.lightcard {
+    background-color:#83f3de !important;
+}
+
+.darkcard {
+    background-color:#c3cee5 !important;
+
+}
